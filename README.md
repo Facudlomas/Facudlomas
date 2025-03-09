@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Facundo Mosquera
 #### Soy un apasionado analista/cientifico de datos
-![Mis proyectos](https://github.com/Facudlomas)
+
 
 He hecho varios proyectos y tengo experiencia en modelados de series temporales, clasificación de imágenes y regresiones.
 
