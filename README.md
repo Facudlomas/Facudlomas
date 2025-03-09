@@ -4,7 +4,7 @@
 
 He hecho varios proyectos y tengo experiencia en modelados de series temporales, clasificación de imágenes y regresiones.
 
-Habilidades: SQL / Python / NumPy / Pandas
+Habilidades: SQL / Python / NumPy / Pandas / SciKit Learn / TensorFlow 
 
 - 📫 Cómo contactarme: facundo.mosquera.cala@gmail.com 
 - ⚡ Dato curioso: Me gusta aprender nuevas habilidades y mejorar las que tengo 
