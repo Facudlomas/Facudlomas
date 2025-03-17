@@ -1,4 +1,5 @@
-### Hola 👋, mi nombre es Facundo Mosquera
+<h1 align="center"><b>Hola , soy Facundo Mosquera  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
 #### Soy un apasionado analista/cientifico de datos
 
 
